@@ -2,9 +2,11 @@
 <p>
   Hi there 👋 Everyone!
 </p>
+</div>
+
 
 ## About Me
-
+<div>
 <p>
     <a href="https://www.twitter.com/FitascoFrost" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/twitter/follow/FitascoFrost?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"/>
@@ -17,14 +19,12 @@
     </a>
 </p>
 
-</div>
-
-
 - 👋 Hi, I’m Tatenda Cristóvão Muchenje
 - 👀 I’m interested in making the world more digital
 - 🌱 I’m currently learning TALL stack & VILT stack
 - 💞️ I’m looking to collaborate on Filament PHP & VILT
 - 📫 How to reach me /Whatsapp: +258856552351/Email: fitasco@gmail.com
+</div>
 
    ## Skills
 <div style="display: inline_block"><br>
@@ -44,8 +44,8 @@
 
 </br>
 
-## My Top Tools List
 <div> 
+## MY LIST OF TOOLS:
 <h2> 🚀 &nbsp;Some Tools I am Using and Learning</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/>
@@ -64,10 +64,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache" width="45" height="45"/>         
 </p>
-</br>
+</div>
   
 </br>
-
+  
 ## Social Media 
 
 <div style="display: inline_block">
