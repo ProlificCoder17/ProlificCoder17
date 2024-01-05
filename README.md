@@ -1,7 +1,9 @@
-<div  align="center"> 
+<div  align="center">  
+  
 <p>
-  Hi there 👋 Everyone!
+👋<img align="right" height="180em" alt="ProlificCoder17-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">there Everyone!
 </p>
+
 </div>
 
 
@@ -14,9 +16,10 @@
     <a href="https://www.github.com/ProlificCoder17" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/github/followers/ProlificCoder17?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" />
     </a>
-    <a href="https://github.com/ProlificCoder17">
+     <a href="https://github.com/ProlificCoder17">
         <img src="https://komarev.com/ghpvc/?username=ProlificCoder17&style=for-the-badge">
     </a>
+    
 </p>
 
 - 👋 Hi, I’m Tatenda Cristóvão Muchenje
@@ -28,11 +31,11 @@
 
    ## Skills
 <div style="display: inline_block"><br>
-   <img height="40" align="center" alt="ProlificCoder17" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github-source/github-source.svg">
+   <img height="40" align="center" alt="ProlificCoder17" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="ProlificCoder17" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github.svg">
+  <img height="40" align="center" alt="ProlificCoder17" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="ProlificCoder17" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript.svg">
+  <img height="40" align="center" alt="ProlificCoder17" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="ProlificCoder17-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,13 +46,11 @@
   <img height="40" align="center" alt="ProlificCoder17-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="ProlificCoder17-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="ProlificCoder17-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div>
-
+</br>
 </br>
 
 <div> 
-## MY LIST OF TOOLS:
 <h2> 🚀 &nbsp;Some Tools I am Using and Learning</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -63,9 +64,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="45" height="45"/>
-<img src="https://cdn.sdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git-s" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="git-v" width="45" height="45"/>       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="git-v" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="docker" width="45" height="45"/>
