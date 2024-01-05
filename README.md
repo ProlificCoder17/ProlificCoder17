@@ -5,8 +5,8 @@
 ## About Me
 
 <p align="center">
-    <a href="https://www.twitter.com/ProlificCoder17" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/twitter/follow/ProlificCoder17?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"/>
+    <a href="https://www.twitter.com/FitascoFrost" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/twitter/follow/FitascoFrost?logo=twitter&style=for-the-badge&color=6366f1&labelColor=000000"/>
     </a>
     <a href="https://www.github.com/ProlificCoder17" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/github/followers/ProlificCoder17?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" />
