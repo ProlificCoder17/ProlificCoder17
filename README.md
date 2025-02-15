@@ -98,35 +98,7 @@ I'm a self-driven developer who transforms ideas into digital realities through 
 </div>
 
 ## 🐍 My Contribution Journey
-name: Generate 3D Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean-3d.gif?color_snake=#00ff99&color_dots=#3b82f6,#9333ea,#facc15,#ef4444,#14b8a6
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ### 🐍 My GitHub Contribution Snake (3D)
-![GitHub Contribution Snake](https://github.com/ProlificCoder17/ProlificCoder17)/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/ProlificCoder17/ProlificCoder17/blob/output/github-contribution-grid-snake.svg)
 
