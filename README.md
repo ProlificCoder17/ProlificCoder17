@@ -98,13 +98,11 @@ I'm a self-driven developer who transforms ideas into digital realities through 
 </div>
 
 ## 🐍 My Contribution Journey
-
-```yaml
-name: Generate Contribution Snake
+name: Generate 3D Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -112,7 +110,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -120,8 +118,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#ff6b6b&color_dots=#1a1b27,#383a59,#454974,#4b518c,#5458a0
-        
+            dist/ocean-3d.gif?color_snake=#00ff99&color_dots=#3b82f6,#9333ea,#facc15,#ef4444,#14b8a6
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
