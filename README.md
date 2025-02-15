@@ -1,6 +1,6 @@
 <div align="center">  
   
-# 👋 Hello, World! I'm Tatenda Cristóvão Muchenje
+# 👋 Hello, there! I'm Tatenda Cristóvão Muchenje
 <img align="right" height="180em" alt="Coding Enthusiasm" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 
 #### _Passionate Self-Taught Developer | Fast Learner | Tech Enthusiast_
@@ -24,9 +24,9 @@
 I'm a self-driven developer who transforms ideas into digital realities through code. My journey is defined by:
 
 - 🚀 Exceptional learning velocity - mastering new tech stacks within days
-- 🎯 Currently crafting expertise in TALL stack & VILT stack
+- 🎯 Currently crafting expertise in React & ReactNative
 - 🌍 Building digital solutions that make a real-world impact
-- 🤝 Seeking collaborations on Filament PHP & VILT projects
+- 🤝 Seeking collaborations on React & ReactNative projects
 - 📚 Continuous learner with a self-taught foundation
 - ⚡ Fun fact: I debug code faster than I can finish my morning coffee!
 
@@ -40,17 +40,49 @@ I'm a self-driven developer who transforms ideas into digital realities through 
 
 ## 💡 Technical Arsenal
 
-### Currently Mastering
-- TALL Stack (Tailwind, Alpine.js, Laravel, Livewire)
-- VILT Stack (Vue.js, Inertia.js, Laravel, Tailwind)
-- Filament PHP
-- Advanced Frontend Architectures
+### 🎯 Currently Mastering
+- 🔥 Advanced React Ecosystems
+ - Next.js 14 with Server Components
+ - React Native for cross-platform apps
+ - Redux Toolkit & React Query
+ - Advanced Component Patterns
 
-### Recent Projects
-- 🛠️ Building scalable web applications
-- 📱 Developing responsive mobile-first interfaces
-- 🔧 Creating custom PHP solutions
-- 🎨 Crafting intuitive user experiences
+- 🤖 AI & Machine Learning
+ - Large Language Models (LLMs)
+ - Custom AI Model Training
+ - OpenAI & Hugging Face Integration
+ - Prompt Engineering
+
+- 💻 Computer Science Fundamentals
+ - Data Structures & Algorithms
+ - System Design & Architecture
+ - Performance Optimization
+ - Design Patterns
+
+### 🚀 Recent Projects
+- 🌟 Full-stack React Applications
+ - Building scalable web apps with Next.js
+ - Real-time data synchronization
+ - Server-side rendering optimization
+ - API route handlers & middleware
+
+- 📱 Mobile Development
+ - Cross-platform apps with React Native
+ - Native module integration
+ - Gesture handling & animations
+ - Performance optimization
+
+- 🤖 AI Integration Projects
+ - Custom chatbots using LLMs
+ - AI-powered content generation
+ - Natural Language Processing
+ - Intelligent data analysis
+
+- 🎨 UI/UX Architecture
+ - Responsive design systems
+ - Atomic design principles
+ - Accessibility implementation
+ - Performance-first approach
 
 ## 📈 Growth & Impact
 
