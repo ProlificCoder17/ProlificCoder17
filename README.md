@@ -1,7 +1,6 @@
 <div align="center">  
   
-# 👋 Hello, there! 
-  I'm Tatenda Cristóvão Muchenje
+# 👋 Hello, there! I'm Tatenda Cristóvão Muchenje
 <img align="right" height="180em" alt="Coding Enthusiasm" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 
 #### _Passionate Self-Taught Developer | Fast Learner | Tech Enthusiast_
