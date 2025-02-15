@@ -100,5 +100,6 @@ I'm a self-driven developer who transforms ideas into digital realities through 
 ## 🐍 My Contribution Journey
 
 ### 🐍 My GitHub Contribution Snake (3D)
-![GitHub Contribution Snake](https://github.com/ProlificCoder17/ProlificCoder17/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ProlificCoder17/ProlificCoder17/output/ocean-3d.gif)
+
 
