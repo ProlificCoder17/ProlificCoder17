@@ -1,40 +1,30 @@
-name: Generate Snake
+name: Generate 3D Contribution Snake
 
 on:
-  workflow_dispatch: # execute manually
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  workflow_dispatch: # Manually trigger workflow
+  schedule: # Runs every 12 hours
+    - cron: "0 */12 * * *"
 
 jobs:
 
-  summary-cards:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-
-      - name: Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.ProlificCoder17 }}
-          
   snake-animation:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@main
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate 3D Snake Animation
+        uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name:  ${{ github.ProlificCoder17 }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Publish Snake Animation SVG
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+            dist/ocean-3d.gif?color_snake=#00ff99&color_dots=#3b82f6,#9333ea,#facc15,#ef4444,#14b8a6
+
+      - name: Publish Snake Animation Files
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
@@ -44,22 +34,22 @@ jobs:
   metrics-achievements:
     runs-on: ubuntu-latest
     steps:
-      - name: Achievements metrics
-        uses: lowlighter/metrics@master
+      - name: Achievements Metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.ACCESS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_threshold: B       # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
-          plugin_achievements_ignored: octonaut  # Hide octonaut achievement
-          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
+          plugin_achievements_ignored: octonaut
+          plugin_achievements_limit: 0
 
   metrics-github:
     runs-on: ubuntu-latest
     steps:
-      - name: Github metrics
+      - name: GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
