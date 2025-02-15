@@ -126,3 +126,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+### 🐍 My GitHub Contribution Snake (3D)
+![GitHub Contribution Snake](https://github.com/ProlificCoder17/ProlificCoder17)/blob/output/github-contribution-grid-snake.svg)
+
